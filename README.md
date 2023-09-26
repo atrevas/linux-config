@@ -13,5 +13,11 @@ Scripts to configure the Linux operating sytem after installation.
 ## Usage
 
 ```
-enable-community-repos
+- enable-community-repos
+- install-codecs
+- install-pdf-utils
+- setup-libreoffice
+- install-ms-fonts
+
+
 ```
